@@ -1,0 +1,14 @@
+game
+human
+human
+4
+place 1a
+place 2b
+undo
+undo
+place 1a
+place 2c
+place 3c
+undo
+place 1c
+quit
